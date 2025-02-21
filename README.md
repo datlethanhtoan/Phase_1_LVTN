@@ -17,7 +17,7 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 <div align="center">
 
 
-\displaystyle c = a*b + p
+ # c = a*b + p
 
 
 </div>
