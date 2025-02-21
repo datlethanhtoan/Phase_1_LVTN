@@ -28,8 +28,8 @@ where:
 - **c** is the final computed output.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e" alt="image">
- <img src="https://github.com/user-attachments/assets/c79a1246-96b8-43c1-9e0a-2453c04b5473" alt="image">
+  <img src="https://github.com/user-attachments/assets/5789e8a6-2dac-4f60-a6fe-5b101b9c1565" alt="image">
+ 
 </p>
 
 
