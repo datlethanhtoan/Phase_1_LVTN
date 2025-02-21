@@ -12,5 +12,6 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 ## **2️⃣ Results **
 - **FPGA Board:** Arty A7-100T (XC7A100TCSG324-1)
 - **Development Tools:** Xilinx Vivado, Vitis
+  
 ![image](https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e)
 ![image](https://github.com/user-attachments/assets/c79a1246-96b8-43c1-9e0a-2453c04b5473)
