@@ -1,0 +1,9 @@
+axi_bram_ctrl_0:
+- axi_bram_ctrl
+- bram
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+myip_mac_0:
+- myip_mac
+- None
