@@ -12,11 +12,12 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 ## 2️⃣ Results 
 - **FPGA Board:** Arty A7-100T (XC7A100TCSG324-1)
 - **Development Tools:** Xilinx Vivado, Vitis
-- **DescriptionMAC Unit:**
+- **Description MAC Unit:**
 
-\[
-**c = a*b + p**
-\]
+## **Formula**
+<p align="center">  
+  <img src="https://latex.codecogs.com/svg.latex?\mathbf{c = a \times b + p}" title="MAC Equation" />  
+</p>
 
 where:
 - **a, b** are input vectors.
