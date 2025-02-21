@@ -9,7 +9,7 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 ## 1️⃣ Integrating a Simple Multiply-Accumulate (MAC) Unit into MicroBlaze V 
 ![image](https://github.com/user-attachments/assets/c1691e26-5d3c-4568-8fee-087d25727425)
 
-## 2️⃣ Results 
+## 2️⃣ Demo 
 - **FPGA Board:** Arty A7-100T (XC7A100TCSG324-1)
 - **Development Tools:** Xilinx Vivado, Vitis
 - **Description MAC Unit:**
@@ -29,6 +29,7 @@ where:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e" alt="image">
+ <img src="https://github.com/user-attachments/assets/c79a1246-96b8-43c1-9e0a-2453c04b5473" alt="image">
 </p>
-![image](https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e)
-![image](https://github.com/user-attachments/assets/c79a1246-96b8-43c1-9e0a-2453c04b5473)
+
+
