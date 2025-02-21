@@ -17,7 +17,7 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 <div align="center">
 
 
- # **c = a*b + p**
+ ### **c = a*b + p**
 
 
 </div>
@@ -26,6 +26,9 @@ where:
 - **a, b** are input vectors.
 - **p** is an accumulation value (previous result or bias).
 - **c** is the final computed output.
-  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e" alt="image">
+</p>
 ![image](https://github.com/user-attachments/assets/0c4d47ce-4a29-47bf-b041-c60dff39901e)
 ![image](https://github.com/user-attachments/assets/c79a1246-96b8-43c1-9e0a-2453c04b5473)
