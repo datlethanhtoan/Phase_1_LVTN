@@ -14,9 +14,8 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 - **Development Tools:** Xilinx Vivado, Vitis
 - **Description MAC Unit:**
 
-## **Formula**
-<p align="center">  
-  <img src="https://latex.codecogs.com/svg.latex?\mathbf{c = a \times b + p}" title="MAC Equation" />  
+<p align="center" style="font-size: 1.5em;">
+  \( \mathbf{c = a \cdot b + p} \)
 </p>
 
 where:
