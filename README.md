@@ -15,7 +15,7 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 - **DescriptionMAC Unit:**
 
 \[
-c = a \cdot b + p
+**c = a*b + p**
 \]
 
 where:
