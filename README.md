@@ -34,11 +34,11 @@ where:
 
 ## 3. CNN-LSTM model
 
-- **ecg_cnn+lstm_tf_2.15.keras
+- **ecg_cnn+lstm_tf_2.15.keras**
   
  ![ecg_cnn+lstm_tf_2 15 keras](https://github.com/user-attachments/assets/905a0923-818d-41df-9b77-b231256eae39)
 
-- **ecg_cnn+lstm_v3_quanti.tflite
+- **ecg_cnn+lstm_v3_quanti.tflite**
   
   ![ecg_cnn+lstm_v3_quanti tflite](https://github.com/user-attachments/assets/e3068880-ec51-4593-a43e-ddcb5a150341)
 
