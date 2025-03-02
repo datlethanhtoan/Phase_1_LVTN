@@ -34,6 +34,7 @@ where:
 
 ## 3. CNN-LSTM model
 - **Dataset:** [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
+- **Framework:** TensorFlow 
 - **ecg_cnn+lstm_tf_2.15.keras**
 
  ![ecg_cnn+lstm_tf_2 15 keras](https://github.com/user-attachments/assets/905a0923-818d-41df-9b77-b231256eae39)
