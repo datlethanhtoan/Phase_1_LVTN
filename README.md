@@ -4,7 +4,7 @@
 This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized for **edge devices** using the **RISC-V architecture**. By leveraging the **open-source nature of RISC-V**, the system helps:
 - **Offload computation** from the server.
 - **Optimize energy consumption**.
-- **Accelerate inference** in **real-time deep learning applications (CNN-LSTM)**.
+- **Accelerate inference** in **real-time deep learning application (CNN-LSTM)**.
 
 ## 1. Integrating a Simple Multiply-Accumulate (MAC) Unit into MicroBlaze V 
 ![image](https://github.com/user-attachments/assets/c1691e26-5d3c-4568-8fee-087d25727425)
