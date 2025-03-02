@@ -6,10 +6,10 @@ This project focuses on designing a **CNN-LSTM hybrid accelerator** optimized fo
 - **Optimize energy consumption**.
 - **Accelerate inference** in **real-time deep learning applications (CNN-LSTM)**.
 
-## 1️⃣ Integrating a Simple Multiply-Accumulate (MAC) Unit into MicroBlaze V 
+## 1 Integrating a Simple Multiply-Accumulate (MAC) Unit into MicroBlaze V 
 ![image](https://github.com/user-attachments/assets/c1691e26-5d3c-4568-8fee-087d25727425)
 
-## 2️⃣ Demo 
+## 2 Demo 
 - **FPGA Board:** Arty A7-100T (XC7A100TCSG324-1)
 - **Development Tools:** Xilinx Vivado, Vitis
 - **Description MAC Unit:**
@@ -31,5 +31,12 @@ where:
   <img src="https://github.com/user-attachments/assets/5789e8a6-2dac-4f60-a6fe-5b101b9c1565" alt="image">
  
 </p>
+
+## 3 CNN-LSTM model
+- **ecg_cnn+lstm_tf_2.15.keras
+![image](https://github.com/user-attachments/assets/69fe64cd-4040-46b5-9330-02a467d89224)
+- **ecg_cnn+lstm_v3_quanti.tflite
+  ![ecg_cnn+lstm_v3_quanti tflite](https://github.com/user-attachments/assets/e3068880-ec51-4593-a43e-ddcb5a150341)
+
 
 
